@@ -63,7 +63,7 @@ See
 ---
 
 ## 👨‍💻 Author
-Developed by **Mohana Krishna**
+Developed by **Mohana Krishna Maturi**
 
 ## ⚖️ License
 📌 Copyright © 2026 Mohana Krishna  
