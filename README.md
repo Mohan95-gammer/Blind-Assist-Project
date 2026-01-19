@@ -1,4 +1,4 @@
-# 🦯 Blind Assist Project – Text to Braille Converter
+# 🦯 Blind Assist Project – (Text to Braille Converter)
 A Text to Braille Converter project for blind assistance.
 
 ## 📖 Overview
