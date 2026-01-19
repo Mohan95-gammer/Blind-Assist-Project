@@ -39,7 +39,7 @@ Blind-Assist-Project/
 ## 📄 Documentation
 See
 - [Blind project.pdf](docs/Blind%20project.pdf) for detailed explanation.
-- ![Schematic Diagram](docs/Schematic_Diagram.png) – Circuit diagram for software setup (like proteus,etc,..)
+- ![Schematic Diagram](docs/Schematic%20Diagram.png) – Circuit diagram for software setup (like proteus,etc,..)
 
 ---
 
