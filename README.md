@@ -34,5 +34,18 @@ Blind-Assist-Project/
 
 │── LICENSE                # Usage terms
 
+---
+
 ## 📄 Documentation
-See [Blind project.pdf](docs/Blind%20project.pdf) for detailed explanation.
+See
+- [Blind project.pdf](docs/Blind%20project.pdf) for detailed explanation.
+- ![Schematic Diagram](docs/schematic_diagram.png) – Circuit diagram for software setup (like proteus,etc,..)
+
+---
+
+## 🛠️ Source Code
+- [blind.ino](src/blind.ino) – Main Arduino sketch
+
+---
+## 👨‍💻 Author
+Developed by **Mohana Krishna**
