@@ -27,7 +27,10 @@ This project demonstrates how assistive technology can bridge accessibility gaps
 Blind-Assist-Project/
 
 │── braille_converter.ino   # Main script
+
 │── Blind project.pdf      # Documentation
+
 │── README.md              # Overview
+
 │── LICENSE                # Usage terms
 
