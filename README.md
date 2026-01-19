@@ -34,3 +34,5 @@ Blind-Assist-Project/
 
 │── LICENSE                # Usage terms
 
+## 📄 Documentation
+See [Blind project.pdf](docs/Blind%20project.pdf) for detailed explanation.
