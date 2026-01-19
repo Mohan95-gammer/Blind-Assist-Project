@@ -39,12 +39,12 @@ Blind-Assist-Project/
 ## 📄 Documentation
 See
 - [Blind project.pdf](docs/Blind%20project.pdf) for detailed explanation.
-- ![Schematic Diagram](docs/schematic_diagram.png) – Circuit diagram for software setup (like proteus,etc,..)
+- ![Schematic Diagram](docs/Schematic_Diagram.png) – Circuit diagram for software setup (like proteus,etc,..)
 
 ---
 
 ## 🛠️ Source Code
-- [blind.ino](src/blind.ino) – Main Arduino sketch
+- [blind.ino](docs/blind.ino) – Main Arduino sketch
 
 ---
 ## 👨‍💻 Author
