@@ -25,6 +25,7 @@ This project demonstrates how assistive technology can bridge accessibility gaps
 
 ## 📂 Project Structure
 Blind-Assist-Project/
+
 │── braille_converter.ino   # Main script
 │── Blind project.pdf      # Documentation
 │── README.md              # Overview
